@@ -1,0 +1,24 @@
+{
+  "name": "unzip-array",
+  "version": "1.0.0",
+  "description": "A javascript implementation of unzip function",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "chai": "^3.5.0"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/unzip-array.git"
+  },
+  "keywords": ["array", "unzip", "undo", "zip"],
+  "author": "Vikram <vikramcse.10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramcse/unzip-array/issues"
+  },
+  "homepage": "https://github.com/vikramcse/unzip-array#readme"
+}
